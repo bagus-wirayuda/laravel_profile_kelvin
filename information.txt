@@ -1,0 +1,43 @@
+INFORMASI KONTEN PORTOFOLIO KALFIN
+
+Nama tampilan: Kalfin Alloto'dang, S.Kom., MT
+Peran: Pengusaha & Dosen
+Bidang: Teknologi Informasi & Digital
+
+Konten profil yang dapat diunduh: assets/profil-kalfin.txt
+Foto asli tetap tersimpan sebagai SW__9473EDIT.jpg.jpeg dan SW__9474 copy.jpg.jpeg.
+Foto hasil edit terbaru: assets/kalfin-portrait-glass.png (transparan)
+Foto untuk website (WebP): assets/kalfin-portrait-glass.webp
+Prompt edit terbaru: assets/kalfin-portrait-glass.prompt.txt
+Edit charcoal sebelumnya tetap tersimpan di assets/kalfin-portrait-edited.png.
+Logo LJI diambil dari https://www.linyjayainformatika.co.id/logo.png
+
+Situs perusahaan:
+- https://linyjayainformatika.co.id
+- https://bisolpin.com
+
+Data yang belum diberikan:
+- Kontak pribadi (email, nomor telepon, media sosial)
+- Nama universitas tempat mengajar dan periode mengajar
+- Detail proyek individual dan dokumentasinya
+- Penghargaan, sertifikasi, publikasi, dan dokumentasi kegiatan sosial
+- CV asli
+
+Bagian-bagian tersebut tidak ditambahkan ke website sampai datanya tersedia.
+Kontak diarahkan ke situs resmi perusahaan. Unduhan berisi ringkasan profil
+berformat TXT. Tidak ada formulir pengiriman pesan simulasi.
+
+PENYESUAIAN FOTO
+Mode: Imagegen bawaan, identity-preserve.
+Prompt: Pertahankan identitas wajah, usia, warna dan tekstur kulit, ekspresi,
+pose, peci, serta kemeja putih asli. Ganti latar biru dengan latar studio
+charcoal mendekati hitam. Seimbangkan pencahayaan dan kejernihan secara
+natural tanpa mengubah bentuk wajah. Komposisi potret vertikal 2:3,
+tanpa teks atau watermark.
+
+PROMPT LENGKAP IMAGEGEN
+Use case: identity-preserve. Asset type: professional portrait for the same person's personal portfolio website. Edit target: the supplied portrait of Kalfin in a white short-sleeved collared shirt and black peci. Primary request: subtle professional photographic retouch only. Preserve his exact facial identity, facial geometry, age, natural expression, skin tone and real skin texture, body proportions, original pose, peci and original white shirt with gray trim unchanged. Replace the bright blue background with a refined near-black charcoal studio background (#151718) with a very subtle soft gray light behind the shoulders, no objects. Gently balance exposure, reduce harsh highlights and improve clarity naturally, no face reshaping or beautification. Framing: vertical 2:3 portrait, head and torso, retain top headroom and shoulders. Photorealistic, understated editorial studio portrait, no text, no watermark. Do not create a different person, do not change clothing or pose.
+
+TEMA WEBSITE
+Glassmorphism modern dan dinamis, dengan aksen biru–ungu.
+Animasi dekoratif dimatikan pada prefers-reduced-motion.
